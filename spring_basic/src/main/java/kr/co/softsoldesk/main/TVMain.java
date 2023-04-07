@@ -1,8 +1,6 @@
 package kr.co.softsoldesk.main;
 
 import org.springframework.context.support.AbstractApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.context.support.GenericApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 import kr.co.softsoldesk.beans.TV;
